@@ -10,8 +10,12 @@ public class ModItems {
     @GameRegistry.ObjectHolder("hatchling-snacks:cheese")
     public static ItemHatchFood itemCheese;
 
+    @GameRegistry.ObjectHolder("hatchling-snacks:wine")
+    public static ItemHatchFood itemWine;
+
     @SideOnly(Side.CLIENT)
     public static void initModels() {
         itemCheese.initModel();
+        itemWine.initModel();
     }
 }

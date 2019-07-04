@@ -3,6 +3,7 @@ package dmbuce.hatchling_snacks.proxy;
 
 import dmbuce.hatchling_snacks.food.ItemHatchFood;
 import net.minecraft.block.Block;
+import net.minecraft.item.EnumAction;
 import net.minecraft.item.Item;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
@@ -28,7 +29,8 @@ public class CommonProxy {
 
 	@SubscribeEvent
 	public static void registerItems(RegistryEvent.Register<Item> event) {
-		event.getRegistry().register(new ItemHatchFood("cheese", 3, 0.6f, false));
+		event.getRegistry().register(new ItemHatchFood("cheese", 3, 0.6f, false, 64, EnumAction.EAT));
+		event.getRegistry().register(new ItemHatchFood("wine", 3, 0.6f, false, 1, EnumAction.DRINK));
 	}
 }
 
