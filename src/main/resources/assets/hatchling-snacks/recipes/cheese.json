@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "hatchling-snacks:cheese"
+  },
+  "pattern": [
+    "Mc"
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    [
+      { "item": "minecraft:sugar" },
+      { "item": "minecraft:brown_mushroom" }
+    ]
+  ]
+}

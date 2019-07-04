@@ -1,0 +1,15 @@
+[
+{
+  "modid": "hatchling-snacks",
+  "name": "Hatchling Snacks",
+  "description": "A simple food mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DMBuce"],
+  "credits": "DMBuce",
+  "logoFile": "",
+  "screenshots": []
+}
+]
