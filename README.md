@@ -1,4 +1,4 @@
-##Hatchling Snacks
+## Hatchling Snacks
 
 A simple Minecraft food mod.
 
