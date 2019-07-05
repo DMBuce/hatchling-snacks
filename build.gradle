@@ -38,9 +38,9 @@ repositories {
     }
 }
 
-version = "0.0.1"
-group= "mcjty.mymod"
-archivesBaseName = "mymod"
+version = "1.0.0"
+group= "dmbuce.hatchling-snacks"
+archivesBaseName = "hatchling-snacks"
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8

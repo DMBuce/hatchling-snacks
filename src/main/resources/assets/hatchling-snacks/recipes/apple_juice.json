@@ -1,0 +1,11 @@
+{
+  "result": {
+    "item": "hatchling-snacks:apple_juice"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:glass_bottle" },
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:sugar" }
+  ]
+}

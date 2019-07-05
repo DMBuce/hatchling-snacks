@@ -1,18 +1,11 @@
 {
   "result": {
-    "item": "hatchling-snacks:cheese"
+    "item": "hatchling-snacks:cheese",
+    "count": 3
   },
-  "pattern": [
-    "Mc"
-  ],
-  "type": "minecraft:crafting_shapeless",
+  "type": "forge:ore_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:milk_bucket"
-    },
-    [
-      { "item": "minecraft:sugar" },
-      { "item": "minecraft:brown_mushroom" }
-    ]
+    { "item": "minecraft:milk_bucket" },
+    { "item": "minecraft:brown_mushroom" }
   ]
 }

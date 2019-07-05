@@ -1,0 +1,11 @@
+{
+  "result": {
+    "item": "hatchling-snacks:wine"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:glass_bottle" },
+    { "item": "minecraft:melon" },
+    { "item": "minecraft:fermented_spider_eye" }
+  ]
+}

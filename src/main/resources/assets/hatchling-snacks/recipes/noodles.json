@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "hatchling-snacks:noodles",
+    "count": 4
+  },
+  "pattern": [
+    " w ",
+    "wEw",
+    " w "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    },
+    "E": {
+       "type": "forge:ore_dict", "ore": "egg"
+    }
+  }
+}

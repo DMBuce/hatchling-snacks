@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "hatchling-snacks:chicken_noodle_soup"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:cooked_chicken" },
+    { "item": "hatchling-snacks:noodles" },
+    { "item": "minecraft:carrot" }
+  ]
+}

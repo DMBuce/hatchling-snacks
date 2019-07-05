@@ -1,0 +1,11 @@
+{
+  "result": {
+    "item": "hatchling-snacks:mac_and_cheese"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bowl" },
+    { "item": "hatchling-snacks:noodles" },
+    { "item": "hatchling-snacks:cheese" }
+  ]
+}

@@ -2,10 +2,10 @@
 package dmbuce.hatchling_snacks.proxy;
 
 import dmbuce.hatchling_snacks.ModItems;
-import dmbuce.hatchling_snacks.food.ItemHatchFood;
+import dmbuce.hatchling_snacks.ModRecipes;
 import net.minecraft.block.Block;
-import net.minecraft.item.EnumAction;
 import net.minecraft.item.Item;
+import net.minecraft.item.crafting.IRecipe;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -19,10 +19,15 @@ public class CommonProxy {
 	}
 
 	public void init(FMLInitializationEvent e) {
+		ModRecipes.initRecipes(e);
 	}
 
 	public void postInit(FMLPostInitializationEvent e) {
 	}
+
+	//@SubscribeEvent
+	//public static void registerRecipes(RegistryEvent.Register<IRecipe> event) {
+	//}
 
 	@SubscribeEvent
 	public static void registerBlocks(RegistryEvent.Register<Block> event) {

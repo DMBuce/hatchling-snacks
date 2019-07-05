@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "hatchling-snacks:burger_mushroom"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bread" },
+    { "item": "minecraft:cooked_beef" },
+    { "item": "minecraft:brown_mushroom" },
+    { "item": "minecraft:brown_mushroom" }
+  ]
+}

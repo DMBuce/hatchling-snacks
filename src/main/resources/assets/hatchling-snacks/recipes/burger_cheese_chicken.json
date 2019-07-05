@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "hatchling-snacks:burger_cheese_chicken"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:bread" },
+    { "item": "minecraft:cooked_chicken" },
+    { "item": "hatchling-snacks:cheese" },
+    { "item": "minecraft:tallgrass", "data": 1 }
+  ]
+}

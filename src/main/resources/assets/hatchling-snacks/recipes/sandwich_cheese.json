@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "hatchling-snacks:sandwich_cheese",
+	"count": 2
+  },
+  "pattern": [
+    "B",
+    "C",
+    "B"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "C": {
+       "item": "hatchling-snacks:cheese"
+    }
+  }
+}

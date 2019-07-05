@@ -1,0 +1,23 @@
+{
+  "result": {
+    "item": "hatchling-snacks:sandwich_cheese_steak",
+	"count": 2
+  },
+  "pattern": [
+    " B ",
+    "CSC",
+    " B "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "C": {
+       "item": "hatchling-snacks:cheese"
+    },
+    "S": {
+       "item": "minecraft:cooked_beef"
+    }
+  }
+}

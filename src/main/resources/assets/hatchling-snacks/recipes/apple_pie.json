@@ -1,0 +1,12 @@
+{
+  "result": {
+    "item": "hatchling-snacks:apple_pie"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    { "item": "minecraft:apple" },
+    { "item": "minecraft:sugar" },
+    { "type": "forge:ore_dict", "ore": "egg" },
+    { "item": "minecraft:apple" }
+  ]
+}
